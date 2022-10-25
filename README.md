@@ -27,8 +27,8 @@ Users should be able to:
 
 ### Screenshot
 
-![](./Pictures/Screenshot(5).png)
-![](./Pictures/Screenshot(7).png)
+![Screenshot (5)](https://user-images.githubusercontent.com/114946911/197726025-393afa52-a575-436d-aa32-aaf74919ccd6.png)
+![Screenshot (7)](https://user-images.githubusercontent.com/114946911/197726103-8214fcb1-6bdc-4fcc-b529-c14cd33d23ec.png)
 
 
 ### Links
@@ -43,30 +43,13 @@ Users should be able to:
 - Semantic HTML5 markup
 - CSS custom properties
 - Flexbox
-- CSS Grid
-- Mobile-first workflow
-- [Styled Components](https://styled-components.com/) - For styles
+
 
 
 ### What I learned
 
 You can display divs alongside each other by setting display to flex and also setting width of each div to have 50% width
 
-```html
-<h1>Some HTML code I'm proud of</h1>
-```
-```css
-.proud-of-this-css {
-  color: papayawhip;
-}
-```
-```js
-const proudOfThisFunc = () => {
-  console.log('🎉')
-}
-```
-
-If you want more help with writing markdown, we'd recommend checking out [The Markdown Guide](https://www.markdownguide.org/) to learn more.
 
 
 ### Continued development
@@ -77,4 +60,4 @@ Impvrove my css especially the layouts
 
 - Website - [Abdulaziz Hussein](https://www.AbdulazizHussein.netlify.app)
 - Frontend Mentor - [@Abdulaziz Hussein](https://www.frontendmentor.io/profile/AbdulazizHussein)
-- Twitter - [@HusAbdul](https://www.twitter.com/Husabdul)
+- Twitter - [@HusAbdul001](https://www.twitter.com/Husabdul001)
